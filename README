@@ -1,0 +1,24 @@
+
+Code for a Teensy, using Teensyduino, to control Mach3, and the CNC Router at the Milwaukee Makerspace.
+
+For background on the CNC Router Controller see:
+
+    http://wiki.milwaukeemakerspace.org/projects/cncroutercontrollerbox?s[]=cnc
+
+
+See also:
+
+    http://www.pjrc.com/teensy/usb_keyboard.html
+
+
+Grab the Bounce library from here:
+
+    http://www.pjrc.com/teensy/td_libs_Bounce.html
+
+
+
+Pete Prodoehl
+pete@rasterweb.net
+http://rasterweb.net/raster/
+Twitter: @raster
+
