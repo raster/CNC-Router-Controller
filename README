@@ -1,5 +1,6 @@
 
-Code for a Teensy, using Teensyduino, to control Mach3, and the CNC Router at the Milwaukee Makerspace.
+Code for a Teensy, using Teensyduino with the Arduino IDE, to control Mach3, and the CNC Router at the Milwaukee Makerspace.
+
 
 For background on the CNC Router Controller see:
 
