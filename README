@@ -3,7 +3,7 @@ Code for a Teensy, using Teensyduino, to control Mach3, and the CNC Router at th
 
 For background on the CNC Router Controller see:
 
-    http://wiki.milwaukeemakerspace.org/projects/cncroutercontrollerbox?s[]=cnc
+    http://wiki.milwaukeemakerspace.org/projects/cncroutercontrollerbox
 
 
 See also:
