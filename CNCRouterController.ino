@@ -1,5 +1,5 @@
 /*
- * CheerLights.pde 
+ * CNCRouterController.pde 
  *
  * You must select Keyboard from the "Tools > USB Type" menu
  *
